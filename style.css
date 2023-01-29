@@ -1,0 +1,47 @@
+#flag{
+    width:400px;
+    height: 200px;
+}
+body{
+    text-align: center;
+    background-color: #87CEEB;
+}
+#ar{
+    font-size: 50px;
+    font-family: 'Padyakke Expanded One', cursive;
+
+}
+#flag{
+    border:5px solid aquamarine;
+}
+p{
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+font-size: 35px;
+}
+.navbar{
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0; 
+    left: 0;
+    width: 100%;
+}
+.navbar a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#Pollution{
+    margin-top: 100px;
+}
+.navbar a:hover{
+    background: #ddd;
+    color: black;
+}
+#pic{
+    width: 600px;
+    height: 300px;
+}
